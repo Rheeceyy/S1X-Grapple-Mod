@@ -1,5 +1,5 @@
 # S1X-Grapple-Mod
-A mod for s1x that allows the Advanced Warfare grapple hook from the grapple playlist to work on all maps. (**nomrally locked to dlc 2-4**)
+A mod for s1x that allows the Advanced Warfare grapple hook from the grapple playlist to work on all maps. (**normally locked to dlc 2-4**)
 
 You'll meed the latest version of s1-mod https://alterware.dev make sure you run the alterware launcher so it installs the necessary files
 and you will also need the exe given with the download in the releases section.
